@@ -1,0 +1,12 @@
+1. Original github repo downloaded did not import random.h which was added to the NN4IR.h 
+
+2. idcg folder was not available in the original ones so we added these documents
+ -rob04-title
+ -wordembeddings
+ -clueweb09B-title
+ 
+3. Run $ sh build.sh
+ - this will take about 40 minutes on orginal wordembeddings (129.9 MB) file
+ - this will take about 20 minutes on orginal wordembeddings (32 MB) file
+
+4. 
