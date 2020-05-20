@@ -9,4 +9,17 @@
  - this will take about 40 minutes on orginal wordembeddings (129.9 MB) file
  - this will take about 20 minutes on orginal wordembeddings (32 MB) file
 
-4. 
+4. You will find the new file named as NN4IR.cpp and original as NN4IR_ORIGINAL.cpp
+
+5. This new file has the code that can work on both the word embeddings and entity embeddings
+
+6. If you look in offlineProcessing folder there we have program and data for conversion of entity into binary file
+
+8. just put that file in place of the word embedding binary file and you are good to go with most trivial base case. on original NN4IR.cpp it takes 20m minutes as mentioned.
+
+9. Further code to integrate word embeddings and entity embeddings together is under process. Changes will be updated here.
+
+
+Thank you,
+
+Mayuresh Anand 
